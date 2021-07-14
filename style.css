@@ -167,10 +167,11 @@ hr.sec_divider {
 }
 
 .project_container {
+    justify-content: center;
     position: relative;
     top: 5rem;
     display: flex;
-    margin: 1rem 0 0 1rem;
+    /* margin: 1rem 0 0 3rem; */
     /* width: 50rem; */
     height: 35rem;
     border-radius: 10px;
